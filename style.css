@@ -1,0 +1,29 @@
+header {
+    background-color: rgb(0, 153, 255);
+    text-align: center;
+    justify-content: center;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+#main {display:grid;
+   margin-top: 10px;
+   margin-left: 0px;
+}
+.col-md-4 {
+    margin-top: 20px;
+}
+
+.col-12col-md-8 {
+    color: blue;
+}
+.specs {
+    margin-top: 20px;
+    justify-content: center;
+}
+.cities {
+    display: block;
+    margin:5px;
+}
+
