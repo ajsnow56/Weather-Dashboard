@@ -1,15 +1,10 @@
 # Weather-Dashboard
 
-Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
-
-Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities. The documentation includes a section called "How to start" that will provide basic setup and usage instructions. Use `localStorage` to store any persistent data.
-
+This is a weater dashboard that accepts a users input for a US city, and fetches weather data using Open Weather's API. The searched city will display the daily weather as well as the 5 day forecast.
 ## User Story
 
 ```
-AS A traveler
-I WANT to see the weather outlook for multiple cities
-SO THAT I can plan a trip accordingly
+AS A traveler and avid van lifer, I travel a LOT. Sometimes weather conditions can prohibit me from getting to or staying where I want to. Thats why I created this webpage. It is crucial for me to know the daily weather as well as 5 day forecast as to properly prepare for my next travels.
 ```
 
 ## Acceptance Criteria
@@ -34,7 +29,7 @@ The following image demonstrates the application functionality:
 
 ![weather dashboard demo](./Assets/06-server-side-apis-homework-demo.png)
 
-## Review
+## Suport
 
 You are required to submit the following for review:
 
