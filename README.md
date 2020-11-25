@@ -13,18 +13,27 @@ AS A traveler and avid van lifer, I travel a LOT. Sometimes weather conditions c
 ```
 The following images demonstrates the application functionality:
 ```
+This is the Search box. The user can enter a US city and it will display results as well as generate a button so save that city.
+![SearchBox](https://raw.githubusercontent.com/ajsnow56/Weather-Dashboard/main/Assets/Weather%20Search%20Box.png)
+
+Here the current weather of the searched city is displayed
+![Current-Weather](https://raw.githubusercontent.com/ajsnow56/Weather-Dashboard/main/Assets/Current%20Weather.png)
+
+Here the 5 day forecast is displayed with matching weather Icons
+![5-Day-Forecast](https://raw.githubusercontent.com/ajsnow56/Weather-Dashboard/main/Assets/5%20Day%20Forecast.png)
+
+## Deployment
+
+* https://ajsnow56.github.io/Weather-Dashboard/
 
 
-
-![weather dashboard demo](C:\Users\AJ\code\My Projects\Weather Search Box.png)
 
 ## Support
 
-You are required to submit the following for review:
+Below is my email is you have any questions.
+
 
 * Email: ajsnow56@gmail.com
-
-* 
 
 ## Contributors
 Alex Nieves
